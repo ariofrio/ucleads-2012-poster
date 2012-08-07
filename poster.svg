@@ -129,37 +129,6 @@
        x2="18870.502"
        y2="400.7077" />
     <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4689"
-       id="linearGradient39233"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.562541,0,0,0.567972,-9.399749,-5.305317)"
-       x1="26.648937"
-       y1="20.603781"
-       x2="135.66525"
-       y2="114.39767" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4671"
-       id="linearGradient39235"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.562541,0,0,0.567972,-9.399749,-5.305317)"
-       x1="150.96111"
-       y1="192.35176"
-       x2="112.03144"
-       y2="137.27299" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient2795"
-       id="radialGradient39237"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.382716e-8,-0.296405,1.43676,4.683673e-7,-128.544,150.5202)"
-       cx="61.518883"
-       cy="132.28575"
-       fx="61.518883"
-       fy="132.28575"
-       r="29.036913" />
-    <linearGradient
        id="linearGradient4689-7">
       <stop
          id="stop4691-9"
@@ -675,11 +644,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.15030864"
-     inkscape:cx="130.03363"
-     inkscape:cy="1646.4642"
+     inkscape:zoom="0.30061728"
+     inkscape:cx="1588.4342"
+     inkscape:cy="2559.1786"
      inkscape:document-units="in"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer3"
      showgrid="false"
      units="in"
      showguides="false"
@@ -823,7 +792,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -12167,11 +12136,11 @@
        id="rect28528"
        width="900"
        height="90"
-       x="135"
-       y="427.5" />
+       x="-989.35321"
+       y="494.21085" />
     <rect
-       y="-202.5"
-       x="90"
+       y="-1286.9353"
+       x="26.796715"
        height="90"
        width="990"
        id="rect44931"
@@ -12204,8 +12173,8 @@
          y="-95.261078"
          id="tspan8436">       ...</tspan></text>
     <rect
-       y="-630"
-       x="1215"
+       y="-1375.1334"
+       x="1175.0822"
        height="90"
        width="900"
        id="rect7895"
@@ -12215,11 +12184,11 @@
        id="rect10186"
        width="900"
        height="90"
-       x="2205"
-       y="-630" />
+       x="2165.082"
+       y="-1375.1334" />
     <rect
-       y="1530"
-       x="1125"
+       y="977.80286"
+       x="-1020.5852"
        height="90"
        width="900"
        id="rect17229"
